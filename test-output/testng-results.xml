@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-01T14:53:23 IST" name="Default suite" finished-at="2025-06-01T14:53:28 IST" duration-ms="5180">
+    <groups>
+    </groups>
+    <test started-at="2025-06-01T14:53:23 IST" name="Default test" finished-at="2025-06-01T14:53:28 IST" duration-ms="5180">
+      <class name="DataSetCheckData">
+        <test-method signature="setApi(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataSetCheckData@3d285d7e]" started-at="2025-06-01T14:53:23 IST" name="setApi" data-provider="DataSet1" finished-at="2025-06-01T14:53:26 IST" duration-ms="3157" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bcd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[234567898]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rabindranath Tagore]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setApi -->
+        <test-method signature="setApi(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:DataSetCheckData@3d285d7e]" started-at="2025-06-01T14:53:26 IST" name="setApi" data-provider="DataSet1" finished-at="2025-06-01T14:53:28 IST" duration-ms="1965" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[789098767]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Nazrul Islam]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setApi -->
+      </class> <!-- DataSetCheckData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
