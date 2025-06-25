@@ -3,7 +3,7 @@ import io.restassured.path.json.JsonPath;
 import static io.restassured.RestAssured.*;
 import org.testng.Assert;
 
-public class ComplexDataStructure {
+public class ComplexDataStructure1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
